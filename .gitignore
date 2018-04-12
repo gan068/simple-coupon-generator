@@ -1,0 +1,9 @@
+#composer
+/vendor
+
+#osx
+.DS_Store
+
+#windows
+Thumbs.db
+

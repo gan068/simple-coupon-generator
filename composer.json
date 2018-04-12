@@ -1,0 +1,17 @@
+{
+    "authors": [
+        {
+            "email": "bleedkaga.ogre@gmail.com",
+            "name": "gan068 <gan068>",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "gan068\\SimpleCouponGenerator\\": "src/"
+        }
+    },
+    "description": "Simple PHP coupon code generator to genrate N number of coupons.",
+    "license": "MIT",
+    "name": "gan068/simple-coupon-generator"
+}
